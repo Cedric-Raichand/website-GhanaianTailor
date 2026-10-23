@@ -275,7 +275,7 @@ header {
 .service-icon {
     width: 70px;
     height: 70px;
-    background-color: rgba(212, 175, 55, 0.1);
+    background-color: rgba(210, 175, 55, 0.1);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -389,7 +389,7 @@ header {
 .form-group textarea:focus {
     outline: none;
     border-color: var(--primary);
-    box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.2);
+    box-shadow: 0 0 0 2px rgba(210, 175, 55, 0.2);
 }
 
 .payment-option {
@@ -618,7 +618,7 @@ footer {
 
 .payment-badge {
     background-color: rgba(255, 255, 255, 0.1);
-    padding: 5px 12px;
+    padding: 5px 10px;
     border-radius: 20px;
     font-size: 0.9rem;
     display: flex;
